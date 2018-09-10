@@ -1,2 +1,2 @@
 # Neural_machine_translation
-Using Neural Translation mechanism to translate from English language to French
+The Encoder-Decoder architecture with recurrent neural networks(RNN) has become an effective method for neural machine translation (NMT). The key benefits of the approach are the ability to train a single end-to-end model directly on source and target sentences and the ability to handle variable length input and output sequences of text. In this project, model is built to translate from English language to French.
